@@ -1,0 +1,12 @@
+@import url("styles.css");
+
+.mx-auto {
+    border-radius: 20px;
+    background-color: white;
+    padding: 50px;
+}
+
+.img_size {
+    width: 250px;
+    gap: 10px;
+}

@@ -1,0 +1,7 @@
+@import url("styles.css");
+
+.container {
+    border-radius: 20px;
+    background-color: white;
+    height: calc(100vh - 90px);
+}

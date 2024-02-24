@@ -1,0 +1,18 @@
+@import url("styles.css");
+
+.mx-auto {
+    border-radius: 20px;
+    background-color: white;
+    padding: 50px;
+}
+
+.btn_choose {
+    display: flex;
+    justify-content: center;
+}
+
+.preview {
+    display: flex;
+    justify-content: center;
+    max-height: 500px;
+}

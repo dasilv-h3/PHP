@@ -1,0 +1,7 @@
+@import url("styles.css");
+
+.mx-auto {
+    border-radius: 20px;
+    background-color: white;
+    padding: 50px;
+}
